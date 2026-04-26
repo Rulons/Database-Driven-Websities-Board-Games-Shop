@@ -208,7 +208,7 @@ The system integrates:
 
 ---
 
-## 🚀 Installation & Setup
+## Installation & Setup
 
 1. Install XAMPP or similar
 2. Clone repository:
@@ -227,7 +227,7 @@ The system integrates:
 
 ---
 
-## 🧪 Testing
+## Testing
 
 * Form validation tested (valid/invalid input)
 * SQL queries tested for correctness
@@ -236,7 +236,7 @@ The system integrates:
 
 ---
 
-## 📚 Future Improvements
+##  Future Improvements
 
 * Advanced search & filtering
 * User registration system
