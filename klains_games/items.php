@@ -18,7 +18,7 @@ $rows = $stmt->fetchAll(PDO::FETCH_ASSOC);
             $imageAddress = "image/$theImage";
         
     ?>
-        <li><img src ="<?=$imageAddress?>"></li>
+        <li><img src ="<?=$imageAddress?>" alt= "<?=$row["name"]?>"></li>
         <li><?=$row["name"]?></li>
         <li><?=$row["Description"]?></li>
     <?php    

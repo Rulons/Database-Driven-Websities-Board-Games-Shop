@@ -30,7 +30,7 @@ title_bar("Create User");
  <section>
 <form method="post">
     <!--fix the accessibility by using id and for attribute - also remove br tags- use css instead -->
-    <label>Newyyy Name:</label><br>
+    <label>New Name:</label><br>
     <input type="text" name="name" required><br><br>
     <label>New Email Address:</label><br>
     <input type="text" name="email" required><br><br>
